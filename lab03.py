@@ -1,1 +1,1 @@
-print("Hello World")
+diceOption = list(range(1,7))
